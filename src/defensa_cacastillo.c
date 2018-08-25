@@ -9,6 +9,7 @@
  */
 
 // XXX: http://codeforces.com/contest/954/problem/G
+
 #if 1
 #define _GNU_SOURCE
 #include <stdio.h>
